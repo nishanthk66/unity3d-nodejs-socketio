@@ -1,2 +1,2 @@
 # Unity3d Dev Log:
-## Jan 9, 2017 -
+## 9 Jan, 2017 -
